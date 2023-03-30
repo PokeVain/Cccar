@@ -1,0 +1,2 @@
+zf_device/zf_device_absolute_encoder.o: \
+ D:/wch_Car/Seekfree_CH32V307VCT6_RTThread_Opensource_Library/libraries/zf_device/zf_device_absolute_encoder.c
